@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Use [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) instead.
+
 # Symfony extension for PHPStan
 
 ## What does it do?
